@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Nori_egg 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226914011&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226914011)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **226914011/226914011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
